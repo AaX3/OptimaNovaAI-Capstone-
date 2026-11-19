@@ -1,3 +1,4 @@
+<img width="1352" height="697" alt="Screenshot 2026-11-19 at 5 57 24 PM" src="https://github.com/user-attachments/assets/f48741b6-e8da-4999-8bc3-91943eba6ad7" />
 # Linden Street Intake Automation — AI Tech Corps Capstone
 
 **Team:** Aamari Green, Rafael Solano, Christopher Diaz
@@ -5,7 +6,8 @@
 **Program:** AI Tech Corps, Founding Class, Week 4 Capstone (OptimaNova AI x The Knowledge House)
 **Built with:** Google Forms, Make.com, Google Gemini API, Google Sheets, Gmail
 
-> **My part (Aamari Green):** the **Family Intake** path, which includes the Google Form intake questions (trilingual labels in English, Spanish, and Haitian Creole), the Gemini summary and translation prompt, and the Family Intake Log sheet with its Status flag. I also owned Design, Build documentation, and the panel readout. Screenshots of my part are in [`/screenshots`](screenshots/).
+> **My part (Aamari Green):** the **Family Intake** path, which includes the Google Form intake questions (trilingual labels in English, Spanish, and Haitian Creole), the Gemini summary and translation prompt, and the Family Intake Log sheet with its Status flag. I also owned Design, Build documentation, and the panel readout. Screenshots of my part are in [](<img width="1475" height="640" alt="Screenshot 2026-11-19 at 6 13 10 PM" src="https://github.com/user-attachments/assets/2e4dc6a9-9127-434d-8a74-fd391769d0e3" />). | <img width="1408" height="749" alt="Screenshot 2026-11-19 at 6 19 09 PM" src="https://github.com/user-attachments/assets/3db55229-a1fb-4963-8f3d-7b4349530e0f" /> | (<img width="927" height="309" alt="Screenshot 2026-11-19 at 6 27 04 PM" src="https://github.com/user-attachments/assets/fd8fdced-c8b0-41cb-95c9-5f501fe0013b" />
+)
 
 ---
 
@@ -101,21 +103,27 @@ Chris's donor letter work was added to the combined build as a third path.
 
 | Screenshot | Shows |
 |---|---|
-| ![Form header](screenshots/01-intake-form-header.png) | Linden Street Family Intake form, trilingual labels |
-| ![Form questions](screenshots/02-intake-form-questions.png) | Family intake questions |
-| ![Form routing](screenshots/03-form-routing-question.png) | Branching question that routes families vs. volunteers |
-| ![Intake log](screenshots/04-family-intake-log.png) | A made-up test row in the Family Intake Log with AI Summary and Status |
+| ![Form header](<img width="1475" height="640" alt="Screenshot 2026-11-19 at 6 13 10 PM" src="https://github.com/user-attachments/assets/2e4dc6a9-9127-434d-8a74-fd391769d0e3" />
+) | Linden Street Family Intake form, trilingual labels |
+| ![Form questions](<img width="1430" height="804" alt="Screenshot 2026-11-19 at 6 14 27 PM" src="https://github.com/user-attachments/assets/f312ede3-1b44-432a-a28f-f8afbb267c96" />
+) | (<img width="1404" height="737" alt="Screenshot 2026-11-19 at 6 14 58 PM" src="https://github.com/user-attachments/assets/af755acc-0dc8-40b2-a97e-e8a498cfad07" />
+) | Family intake questions |
+| ![Form routing](<img width="1369" height="614" alt="Screenshot 2026-11-19 at 6 17 30 PM" src="https://github.com/user-attachments/assets/10c052cc-4293-4364-afbf-eb667e55ab80" />
+) | (<img width="922" height="519" alt="Screenshot 2026-11-19 at 6 18 11 PM" src="https://github.com/user-attachments/assets/83c7a3d0-2663-46c1-b471-5eec4d9a19e2" />
+) Branching question that routes families vs. volunteers |
+| ![Intake log](<img width="1408" height="749" alt="Screenshot 2026-11-19 at 6 19 09 PM" src="https://github.com/user-attachments/assets/3db55229-a1fb-4963-8f3d-7b4349530e0f" />
+) | (<img width="1260" height="601" alt="Screenshot 2026-11-19 at 6 21 15 PM" src="https://github.com/user-attachments/assets/52181d4f-6d2a-4e96-a766-ebad39ab4afc" />
+) | A made-up test row in the Family Intake Log with AI Summary and Status |
 
 ## Demo Video
 
-▶️ **[Watch the demo](PASTE-YOUR-VIDEO-LINK-HERE)**
+▶️ **[Watch the demo](https://drive.google.com/file/d/1rI2FC19GfO3lmWriBcCQixa2GT19G30d/view?usp=sharing)**
 
 ## Who Did What
 
-- **Aamari Green:** Family Intake path (Google Form, Gemini prompt, Family Intake Log), Design, Build documentation, panel readout
+- **Aamari Green:** Family Intake path (Google Form, Gemini prompt, Family Intake Log), Design, Build documentation, panel readout, Module filters from form
 - **Rafael Solano:** Volunteer confirmation path (Gemini drafts, Gmail drafts, Volunteer Log), ran the live build demo
-- **Chris:** Donor letter path
+- **Chris:** Donor letter path, Final Filter adding Chris' modules.<img width="1400" height="800" alt="Screenshot 2026-11-19 at 6 10 23 PM" src="https://github.com/user-attachments/assets/2729ed87-f315-4195-b9fd-68e46d39adbd" />
+
 
 ---
-
-*AI disclosure: This README was drafted with AI assistance (Claude) from my build sessions and capstone package. I reviewed it and checked the names, numbers, and claims against my own work.*

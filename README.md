@@ -102,17 +102,10 @@ Chris's donor letter work was added to the combined build as a third path.
 
 | Screenshot | Shows |
 |---|---|
-| ![Form header](<img width="1475" height="640" alt="Screenshot 2026-11-19 at 6 13 10 PM" src="https://github.com/user-attachments/assets/2e4dc6a9-9127-434d-8a74-fd391769d0e3" />
-) | Linden Street Family Intake form, trilingual labels |
-| ![Form questions](<img width="1430" height="804" alt="Screenshot 2026-11-19 at 6 14 27 PM" src="https://github.com/user-attachments/assets/f312ede3-1b44-432a-a28f-f8afbb267c96" />
-) | (<img width="1404" height="737" alt="Screenshot 2026-11-19 at 6 14 58 PM" src="https://github.com/user-attachments/assets/af755acc-0dc8-40b2-a97e-e8a498cfad07" />
-) | Family intake questions |
-| ![Form routing](<img width="1369" height="614" alt="Screenshot 2026-11-19 at 6 17 30 PM" src="https://github.com/user-attachments/assets/10c052cc-4293-4364-afbf-eb667e55ab80" />
-) | (<img width="922" height="519" alt="Screenshot 2026-11-19 at 6 18 11 PM" src="https://github.com/user-attachments/assets/83c7a3d0-2663-46c1-b471-5eec4d9a19e2" />
-) Branching question that routes families vs. volunteers |
-| ![Intake log](<img width="1408" height="749" alt="Screenshot 2026-11-19 at 6 19 09 PM" src="https://github.com/user-attachments/assets/3db55229-a1fb-4963-8f3d-7b4349530e0f" />
-) | (<img width="1260" height="601" alt="Screenshot 2026-11-19 at 6 21 15 PM" src="https://github.com/user-attachments/assets/52181d4f-6d2a-4e96-a766-ebad39ab4afc" />
-) | A made-up test row in the Family Intake Log with AI Summary and Status |
+| <img width="600" alt="Family intake form header" src="https://github.com/user-attachments/assets/2e4dc6a9-9127-434d-8a74-fd391769d0e3" /> | Linden Street Family Intake form, trilingual labels |
+| <img width="600" alt="Family intake questions, part 1" src="https://github.com/user-attachments/assets/f312ede3-1b44-432a-a28f-f8afbb267c96" /><br><img width="600" alt="Family intake questions, part 2" src="https://github.com/user-attachments/assets/af755acc-0dc8-40b2-a97e-e8a498cfad07" /> | Family intake questions |
+| <img width="600" alt="Form routing question, part 1" src="https://github.com/user-attachments/assets/10c052cc-4293-4364-afbf-eb667e55ab80" /><br><img width="600" alt="Form routing question, part 2" src="https://github.com/user-attachments/assets/83c7a3d0-2663-46c1-b471-5eec4d9a19e2" /> | Branching question that routes families vs. volunteers |
+| <img width="600" alt="Family Intake Log, part 1" src="https://github.com/user-attachments/assets/3db55229-a1fb-4963-8f3d-7b4349530e0f" /><br><img width="600" alt="Family Intake Log, part 2" src="https://github.com/user-attachments/assets/52181d4f-6d2a-4e96-a766-ebad39ab4afc" /> | A made-up test row in the Family Intake Log with AI Summary and Status |
 
 ## Demo Video
 
@@ -122,7 +115,7 @@ Chris's donor letter work was added to the combined build as a third path.
 
 - **Aamari Green:** Family Intake path (Google Form, Gemini prompt, Family Intake Log), Design, Build documentation, panel readout, Module filters from form
 - **Rafael Solano:** Volunteer confirmation path (Gemini drafts, Gmail drafts, Volunteer Log), ran the live build demo
-- **Chris:** Donor letter path, Final Filter adding Chris' modules.<img width="1400" height="800" alt="Screenshot 2026-11-19 at 6 10 23 PM" src="https://github.com/user-attachments/assets/2729ed87-f315-4195-b9fd-68e46d39adbd" />
+- **Chris:** Donor letter path, Final Filter adding Chris' modules.
 
 
 ---
